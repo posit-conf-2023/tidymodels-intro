@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Introduction to tidymodels
 ================
 
 ### posit::conf 2023
